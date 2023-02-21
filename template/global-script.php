@@ -29,21 +29,20 @@
     };
 </script>
 <!--begin::Global Theme Bundle(used by all pages) -->
-<!-- <script src="<?php echo $asset_url; ?>assets/plugins/global/plugins.bundle.js" type="text/javascript"></script>
-<script src="<?php echo $asset_url; ?>assets/js/scripts.bundle.js" type="text/javascript"></script> -->
+<script src="<?php echo $asset_url; ?>assets/plugins/global/plugins.bundle.js" type="text/javascript"></script>
+<script src="<?php echo $asset_url; ?>assets/js/scripts.bundle.js" type="text/javascript"></script>
+<script src="<?php echo $asset_url; ?>assets/js/pages/custom/wizard/wizard-2.js" type="text/javascript"></script>
 <!--end::Global Theme Bundle -->
 <!------------------V8 Scripts----------------------->
 <!--begin::Global Javascript Bundle(mandatory for all pages)-->
-<script src="<?php echo $asset_url_v8; ?>assets/plugins/global/plugins.bundle.js"></script>
-<script src="<?php echo $asset_url_v8; ?>assets/js/scripts.bundle.js"></script>
+<!-- <script src="<?php echo $asset_url_v8; ?>assets/plugins/global/plugins.bundle.js"></script>
+<script src="<?php echo $asset_url_v8; ?>assets/js/scripts.bundle.js"></script> -->
 <!--end::Global Javascript Bundle-->
 
-<script src="<?php echo $asset_url_v8; ?>assets/plugins/custom/datatables/datatables.bundle.js"></script>
+<!-- <script src="<?php echo $asset_url_v8; ?>assets/plugins/custom/datatables/datatables.bundle.js"></script>
 <script src="<?php echo $asset_url_v8; ?>assets/js/widgets.bundle.js"></script>
 <script src="<?php echo $asset_url_v8; ?>assets/js/custom/widgets.js"></script>
-<!-- <script src="<?php //echo $asset_url_v8; 
-                    ?>assets/js/custom/apps/ecommerce/settings/settings.js"></script> -->
-<script src="assets/js/add-user.js"></script>
+<script src="assets/js/add-user.js"></script> -->
 
 
 <!------------------V8 Scripts----------------------->

@@ -20,6 +20,8 @@ $page_title = "ITR e-filing";
     <link href="<?php echo $asset_url; ?>assets/css/skins/header/menu/light.css" rel="stylesheet" type="text/css" />
     <link href="<?php echo $asset_url; ?>assets/css/skins/brand/dark.css" rel="stylesheet" type="text/css" />
     <link href="<?php echo $asset_url; ?>assets/css/skins/aside/dark.css" rel="stylesheet" type="text/css" />
+    <link href="<?php echo $asset_url; ?>assets/css/pages/wizard/wizard-2.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/pricing-2.css" rel="stylesheet" type="text/css" />
 
     <!--end::Layout Skins -->
 
