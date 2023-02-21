@@ -1,9 +1,9 @@
 <?php 
 	if(isset($_GET['page']) && $_GET['page'] != '')
 	{
-		if($_GET['page'] == 'dashboard')
+		if($_GET['page'] == 'emplates')
 		{
-			include('pages/dashboard.php');
+			include('pages/templates.php');
 		}
 		elseif ($_GET['page'] == 'users') {
 			include('pages/userlist.php');

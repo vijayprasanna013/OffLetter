@@ -33,7 +33,7 @@
                         <div class="kt-widget kt-widget--user-profile-1">
                             <div class="kt-widget__body">
                                 <div class="kt-widget__items">
-                                    <a href="index.php?page=dashboard" class="kt-widget__item page_1_1 form_section" onClick="window.scrollTo(0, 0)">
+                                    <a href="index.php?page=templates" class="kt-widget__item page_1_1 form_section" onClick="window.scrollTo(0, 0)">
                                         <span class="kt-widget__section">
                                             <span class="kt-widget__icon">
                                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
@@ -44,7 +44,7 @@
                                                     </g>
                                                 </svg> </span>
                                             <span class="kt-widget__desc">
-                                                Dashboard
+                                                Templates
                                             </span>
                                         </span>
                                     </a>
