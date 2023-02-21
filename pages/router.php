@@ -1,7 +1,7 @@
 <?php 
 	if(isset($_GET['page']) && $_GET['page'] != '')
 	{
-		if($_GET['page'] == 'emplates')
+		if($_GET['page'] == 'templates')
 		{
 			include('pages/templates.php');
 		}
