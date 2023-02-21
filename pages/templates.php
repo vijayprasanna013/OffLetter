@@ -33,26 +33,29 @@
                         </div>
                     </div>
                     <div class="tab-content">
+
                         <div class="tab-pane active" id="Uploadtemp" aria-expanded="true">
-                            <div class="row">
-                            <div class="col-md-3"></div>
-                                <div class="col-md-3">
-                                    <div class="form-group">
-                                        <label>File Browser</label>
-                                        <div></div>
-                                        <div class="custom-file">
-                                            <input type="file" class="custom-file-input" id="customFile">
-                                            <label class="custom-file-label" for="customFile">Choose file</label>
+                            <form method="POST" action="action/uploadtemplate.php" enctype="multipart/form-data">
+                                <div class="row">
+                                    <div class="col-md-3"></div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label>File Browser</label>
+                                            <div></div>
+                                            <div class="custom-file">
+                                                <input type="file" class="custom-file-input" id="customFile" name="tempupload">
+                                                <label class="custom-file-label" for="customFile">Choose file</label>
+                                            </div>
+                                            <span class="form-text text-muted">Some help content goes here</span>
                                         </div>
-                                        <span class="form-text text-muted">Some help content goes here</span>
+
                                     </div>
-                                    
+                                    <div class="col-md-3" style="margin-top: 26px;">
+                                        <button type="submit" class="btn btn-outline-brand"><i class="fa fa-code"></i> Upload</button>
+                                    </div>
+                                    <div class="col-md-3"></div>
                                 </div>
-                                <div class="col-md-3" style="margin-top: 26px;">
-                                <button type="button" class="btn btn-outline-brand"><i class="fa fa-code"></i> Upload</button>
-                                </div>
-                                <div class="col-md-3"></div>
-                            </div>
+                            </form>
 
                         </div>
                         <div class="tab-pane" id="createtemp" aria-expanded="false">
@@ -86,10 +89,10 @@
                                                     </div>
                                                     <div class="kt-wizard-v2__nav-label">
                                                         <div class="kt-wizard-v2__nav-label-title">
-                                                        Footer Settings
+                                                            Footer Settings
                                                         </div>
                                                         <div class="kt-wizard-v2__nav-label-desc">
-                                                        Setup Your Footer Section
+                                                            Setup Your Footer Section
                                                         </div>
                                                     </div>
                                                 </div>
@@ -101,10 +104,10 @@
                                                     </div>
                                                     <div class="kt-wizard-v2__nav-label">
                                                         <div class="kt-wizard-v2__nav-label-title">
-                                                        content
+                                                            content
                                                         </div>
                                                         <div class="kt-wizard-v2__nav-label-desc">
-                                                        Setup Your body content
+                                                            Setup Your body content
                                                         </div>
                                                     </div>
                                                 </div>
