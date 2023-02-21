@@ -35,7 +35,8 @@
                     <div class="tab-content">
                         <div class="tab-pane active" id="Uploadtemp" aria-expanded="true">
                             <div class="row">
-                                <div class="col-md-4">
+                            <div class="col-md-3"></div>
+                                <div class="col-md-3">
                                     <div class="form-group">
                                         <label>File Browser</label>
                                         <div></div>
@@ -47,9 +48,10 @@
                                     </div>
                                     
                                 </div>
-                                <div class="col-md-4">
-                                <button type="button" class="btn btn-outline-brand"><i class="fa fa-code"></i> Outline</button>
+                                <div class="col-md-3" style="margin-top: 26px;">
+                                <button type="button" class="btn btn-outline-brand"><i class="fa fa-code"></i> Upload</button>
                                 </div>
+                                <div class="col-md-3"></div>
                             </div>
 
                         </div>
