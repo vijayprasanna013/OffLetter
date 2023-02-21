@@ -5,8 +5,8 @@
 		{
 			include('pages/templates.php');
 		}
-		elseif ($_GET['page'] == 'users') {
-			include('pages/userlist.php');
+		elseif ($_GET['page'] == 'letters') {
+			include('pages/letters.php');
 		}
 		elseif ($_GET['page'] == 'profile') {
 			include('pages/profile.php');

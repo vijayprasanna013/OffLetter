@@ -48,7 +48,7 @@
                                             </span>
                                         </span>
                                     </a>
-                                    <a href="index.php?page=users" class="kt-widget__item kt-widget__item page_1_2 form_section" title="" data-placement="right" data-original-title="" onClick="window.scrollTo(0, 0)">
+                                    <a href="index.php?page=letters" class="kt-widget__item kt-widget__item page_1_2 form_section" title="" data-placement="right" data-original-title="" onClick="window.scrollTo(0, 0)">
                                         <span class="kt-widget__section">
                                             <span class="kt-widget__icon">
                                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
@@ -59,7 +59,7 @@
                                                     </g>
                                                 </svg> </span>
                                             <span class="kt-widget__desc">
-                                                Users
+                                                Generate Letters
                                             </span>
                                         </span>
                                     </a>
