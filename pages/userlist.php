@@ -498,5 +498,3 @@
     </div>
 </div>
 
-
-<?php include SITE_ROOT . "/innerphp/modals/add_user/adduser.php"; ?>
