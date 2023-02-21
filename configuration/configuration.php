@@ -18,7 +18,7 @@ define('MAIN_DB_SERVER', 'localhost');
 
 /* define('ASSET_URL','../Metronic/assets/');
 define('ASSET_URL_8','../Metronic_v8.1.6/html/demo1/dist/'); */
-$asset_url="../Metronic/";
-$asset_url_v8="../Metronic_v8.1.6/html/demo1/dist/";
+$asset_url="../Metronic/m6/";
+$asset_url_v8="../Metronic/m8/demo1/dist/";
 
 ?>
