@@ -1,4 +1,4 @@
-<?php require_once 'configuration/configuration.php'; ?>
+<?php require_once 'configuration/configuration.php';?>
 <!DOCTYPE html>
 <html lang="en">
 <?php include "template/heads.php";  ?>
