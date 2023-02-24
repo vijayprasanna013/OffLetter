@@ -13,7 +13,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
   // Do something with the file content
   //echo $file_content; exit();
 
-  $template_file_name = 'Template.docx';
+  $template_file_name = 'Template.';
   /* $full_path = $folder . '/' . $template_file_name; */
 
   $full_path = $path . $template_file_name;
